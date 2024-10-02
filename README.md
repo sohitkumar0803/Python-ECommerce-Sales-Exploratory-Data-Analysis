@@ -1,5 +1,7 @@
 ### Python ECommerce Sales Exploratory Data Analysis
 
+[Code Link](https://github.com/sohitkumar0803/Python-ECommerce-Sales-Exploratory-Data-Analysis/blob/main/EDA.ipynb)
+
 **Description:**
 - Conducted an exploratory data analysis on e-commerce sales data using Python.
 - Data Preparation: Imported libraries, loaded data, and performed data cleaning (removed duplicates, handled missing values, standardized formats, validated data).
